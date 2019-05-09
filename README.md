@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About arxiv-collector
 =====================
 
@@ -27,8 +23,17 @@ A small script to collect your LaTeX files for submission to the arXiv. Main fea
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/arxiv-collector-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/arxiv-collector-feedstock)
+
+<table><tr>
+    
+    <td>All platforms:</td>
+    <td>
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=2710&branchName=master">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/arxiv-collector-feedstock?branchName=master">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
