@@ -1,5 +1,5 @@
 {% set name = "arxiv-collector" %}
-{% set version = "0.2.2" %}
+{% set version = "0.2.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: bb9e0f89c51162c0842b2877fa42b8c115b28f874e9fe2f5fd2ad8338ad6efb1
+  sha256: 942434b1cb359e1a5e051028255640af9a11b6c2b1c60f7b53395e8f2f6990d5
 
 build:
   noarch: python
