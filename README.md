@@ -1,7 +1,7 @@
 About arxiv-collector
 =====================
 
-Home: http://github.com/dougalsutherland/arxiv-collector
+Home: http://github.com/djsutherland/arxiv-collector
 
 Package license: BSD-3-Clause
 
