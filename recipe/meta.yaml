@@ -30,7 +30,7 @@ test:
     - arxiv_collector
 
 about:
-  home: http://github.com/dougalsutherland/arxiv-collector
+  home: http://github.com/djsutherland/arxiv-collector
   license: BSD-3-Clause
   license_family: BSD
   license_file: LICENSE
@@ -45,7 +45,7 @@ about:
       `Package biblatex Warning: File '.bbl' is wrong format version`.
     - Only uploads things you actually use: if you have an image you're not
       including anymore or whatever, doesn't upload it.
-  dev_url: http://github.com/dougalsutherland/arxiv-collector
+  dev_url: http://github.com/djsutherland/arxiv-collector
 
 extra:
   recipe-maintainers:
