@@ -5,9 +5,11 @@ Home: http://github.com/djsutherland/arxiv-collector
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/arxiv-collector-feedstock/blob/master/LICENSE.txt)
 
 Summary: A little Python script to collect LaTeX sources for upload to the arXiv
+
+Development: http://github.com/djsutherland/arxiv-collector
 
 A small script to collect your LaTeX files for submission to the arXiv. Main features:
 
